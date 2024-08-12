@@ -1,0 +1,24 @@
+/* Custom styles for the movie library project */
+h1 {
+    margin-bottom: 20px;
+}
+
+.table td,
+.table th {
+    vertical-align: middle;
+}
+
+.table-actions {
+    display: flex;
+    gap: 10px;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.btn-primary,
+.btn-warning,
+.btn-danger {
+    min-width: 100px;
+}
